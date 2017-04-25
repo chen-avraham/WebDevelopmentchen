@@ -1,0 +1,52 @@
+
+.chen{
+    background-position:center;
+}
+body {
+    direction: rtl;
+    font-family: FoodiFOT;
+    color: dodgerblue;
+    background-image:url('../img/‏‏לכידה 2.PNG');
+    width:400px;
+         height:300px;
+         text-align:center;
+
+
+}
+#HIT :hover{
+    margin:auto;
+}
+.A{
+    text-align:center;
+    color:darkblue;
+    background-color:aqua;
+    font-family:FoodiFOT;
+}
+
+body header ul filter{
+    font-family:FoodiFOT;
+    text-align:center;
+}
+#pn{
+    text-align:right;
+    
+}
+.box1{
+    text-align:left;
+}
+.box2{
+    text-align:left;
+}
+.SendForm{
+    text-align:left;
+
+}
+.h1{
+    font-family:FoodiFOT;
+}
+.p{
+    display : block;
+}
+.pn{
+     display : block;
+}
